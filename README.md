@@ -91,7 +91,14 @@ Sulaymaniyah, Southern Kurdistan, faces ongoing urban challenges — potholes, l
  
 CivicNature was built to give residents a structured, transparent channel to document these problems and hold authorities accountable — no account needed, no barriers.
  
+---
  
+## 👩‍💻 Developer
+ 
+**Vanya M.**
+- GitHub: [@Vanyamohammad2023](https://github.com/Vanyamohammad2023)
+- Deployed on: [Netlify](https://www.netlify.com/)
+
 ---
  
 *CivicNature © 2026 · SDG 11 Web Application*
